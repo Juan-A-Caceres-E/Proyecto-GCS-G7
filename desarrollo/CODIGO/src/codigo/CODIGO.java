@@ -15,7 +15,7 @@ public class CODIGO {
  * @param args the command line arguments
  */
 public static void main(String[] args) {
-    System.out.println("Esta es la rama de Jose Cuentas");
+    System.out.println("Codigo pertenciente a la rama jose_cuentas");
 }
 
 }
